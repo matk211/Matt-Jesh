@@ -3,5 +3,5 @@ Repo for Matt &amp; Jesh
 **README FILE**
 | Author      | Job Title |
 | ----------- | ----------- |
-| Matt       | Title       |
-| Jeshua   | Text        |
+| Matt       | Boss       |
+| Jeshua   | Slave      |
