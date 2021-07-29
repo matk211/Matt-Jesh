@@ -8,3 +8,8 @@ Repo for Matt &amp; Jesh
 | Jeshua      | Slave     |
 
 My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
+
+Things we nedd to complete"
+* The game
+* something else
+* play it
