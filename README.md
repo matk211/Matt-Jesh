@@ -13,3 +13,6 @@ Things we nedd to complete"
 * The game
 * something else
 * play it
+
+http://github.com - automatic!
+[GitHub](http://github.com)
