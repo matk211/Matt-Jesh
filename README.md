@@ -6,3 +6,5 @@ Repo for Matt &amp; Jesh
 | :----:      | :----:    |
 | Matt        | Boss      |
 | Jeshua      | Slave     |
+
+My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
