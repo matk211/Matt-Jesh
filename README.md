@@ -16,3 +16,5 @@ Things we nedd to complete"
 
 http://github.com - automatic!
 [GitHub](http://github.com)
+
+This **word** is bold. This <em>word</em> is italic.
